@@ -1,0 +1,26 @@
+---
+name: Update Medium Posts
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-medium-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Update Medium Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: 'https://medium.com/feed/@renangraciano'
+          max_post_count: 3
+          commit_message: 'Update latest Medium posts'
+          committer_username: 'renangraciano'
+          committer_email: 'rgraciano@protonmail.ch'
+...
