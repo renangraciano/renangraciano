@@ -50,8 +50,8 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 ---
 
 ## 📝 Latest Medium Posts
-<!-- MEDIUM-POST-LIST:START -->
-<!-- MEDIUM-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 *This section is automatically updated with my latest Medium posts. Check out my [Medium profile](https://medium.com/@renangraciano) for more articles!*
 ---
