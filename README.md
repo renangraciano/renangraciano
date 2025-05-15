@@ -41,14 +41,17 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ### Observability & Monitoring
 [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch)](https://rgsolucoes.cloud)
+
 *Prometheus, Grafana, Datadog, CloudWatch, ELK Stack*
 
 ### Containerization & Orchestration
 [![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+
 *Docker, Kubernetes, Helm, Rancher*
 
 ### Emerging Tech
 [![Emerging Tech](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
+
 *Blockchain, AI, ML, Data Science*
 
 ### Other Tools
