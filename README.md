@@ -61,6 +61,9 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ## 📝 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
+- [Volumes compartilhados entre nós no EKS](https://renangraciano.medium.com/volumes-compartilhados-entre-n%C3%B3s-no-eks-8564414e25fa?source=rss-cd5b06290c5------2)
+- [Migrando do Docker para o Podman de Maneira Fácil](https://renangraciano.medium.com/migrando-do-docker-para-o-podman-de-maneira-f%C3%A1cil-992de8251f1a?source=rss-cd5b06290c5------2)
+- [Generating pre-signed URLs using Boto3](https://renangraciano.medium.com/generating-pre-signed-urls-using-boto3-589b79ce32e3?source=rss-cd5b06290c5------2)
 <!-- BLOG-POST-LIST:END -->
 
 *This section is automatically updated with my latest Medium posts. Check out my [Medium profile](https://medium.com/@renangraciano) for more articles!*
