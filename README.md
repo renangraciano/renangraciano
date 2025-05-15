@@ -17,38 +17,43 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ## 🛠️ My Tech Stack
 ### Cloud & Infrastructure
-[![Cloud & Infra](https://skill-icons.vercel.app/icons?i=aws,gcp,azure,heroku,linux,docker,kubernetes,ansible,terraform,vagrant,git,vault,helm)](https://skills.thijs.gg)  
-*Oracle Cloud, Huawei Cloud, Alibaba Cloud, Datacenter & On-Premise Solutions*
+[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,azure,alibaba,oracle,huawei,linux,terraform,ansible,puppet,chef,cloudformation,vagrant,packer)](https://skillicons.dev)
+*Aws, GCP, Azure, Other Clouds Like Alibaba, Oracle and Huaweii, On-Premise Solutions, Linux, Terraform, Ansible, Puppet, Chef, CloudFormation, Vagrant, Packer*
 
 ### Programming & Scripting
-[![Languages](https://skill-icons.vercel.app/icons?i=go,python,bash)](https://skills.thijs.gg)
+[![Languages](https://skillicons.dev/icons?i=python,bash,go,js,php,java)](https://skillicons.dev)  
+*Python, Go, Bash, JavaScript, PHP, Java*
 
 ### CI/CD, GitOps & Delivery
-[![CI/CD & Delivery](https://skill-icons.vercel.app/icons?i=jenkins,circleci,gitlab,githubactions)](https://skills.thijs.gg)  
+[![CI/CD & Delivery](https://skill-icons.vercel.app/icons?i=git,githubactions,aws)](https://skills.thijs.gg)
 *AWS CodePipeline, ArgoCD, GitOps Practices*
 
 ### Databases & Caching
-[![Databases](https://skill-icons.vercel.app/icons?i=postgres,mysql,redis)](https://skills.thijs.gg)  
-*SQL, NoSQL Solutions*
+[![Databases](https://skill-icons.vercel.app/icons?i=mysql,postgresql,redis,mongodb,dynamodb,elasticsearch,cassandra,couchbase)](https://skills.thijs.gg)
+*MySQL, PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch, Cassandra, Couchbase*
 
 ### Observability & Monitoring
-[![Monitoring](https://skill-icons.vercel.app/icons?i=prometheus,grafana,elasticsearch)](https://skills.thijs.gg)  
-*Datadog, Elastic Stack*
+[![Monitoring](https://skill-icons.vercel.app/icons?i=prometheus,grafana,datadog,cloudwatch)](https://skills.thijs.gg)
+*Prometheus, Grafana, Datadog, CloudWatch, ELK Stack*
+
+### Containerization & Orchestration
+[![Containers](https://skill-icons.vercel.app/icons?i=docker,kubernetes,helm)](https://skills.thijs.gg)
+*Docker, Kubernetes, Helm, Rancher*
 
 ### Emerging Tech
-[![Emerging](https://skill-icons.vercel.app/icons?i=blockchain)](https://skills.thijs.gg)
+[![Emerging](https://skill-icons.vercel.app/icons?i=blockchain,ai,ml)](https://skills.thijs.gg)
+*Blockchain, AI, ML, Data Science*
+
+### Other Tools
+[![Other Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jira,confluence,notion)](https://skillicons.dev)
 
 ---
 
 ## 📝 Latest Medium Posts
 <!-- MEDIUM-POST-LIST:START -->
-- [Your latest Medium post title](https://medium.com/@renangraciano/post-slug)
-- [Another recent Medium post title](https://medium.com/@renangraciano/post-slug)
-- [One more Medium post title](https://medium.com/@renangraciano/post-slug)
 <!-- MEDIUM-POST-LIST:END -->
 
-*Automatically updated via GitHub Actions! Check out [this workflow](https://github.com/gautamkrishnar/blog-post-workflow) to set it up.*
-
+*This section is automatically updated with my latest Medium posts. Check out my [Medium profile](https://medium.com/@renangraciano) for more articles!*
 ---
 
 ## 📊 GitHub Stats

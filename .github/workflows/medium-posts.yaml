@@ -1,15 +1,15 @@
 ---
-name: Update Medium Posts
+name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
-  push:
-    branches:
-      - main
-  workflow_dispatch: # Allows manual triggering
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-medium-posts:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -22,5 +22,5 @@ jobs:
           max_post_count: 3
           commit_message: 'Update latest Medium posts'
           committer_username: 'renangraciano'
-          committer_email: 'rgraciano@protonmail.ch'
+          committer_email: 'rgraciano@protonmail.com' # Replace with your email
 ...
