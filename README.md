@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=renangraciano&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 ---
@@ -15,7 +17,7 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ## 🛠️ My Tech Stack
 ### Cloud & Infrastructure
-[![Cloud & Infra](https://skill-icons.vercel.app/icons?i=aws,gcp,azure,heroku,linux,docker,kubernetes,ansible,terraform,vagrant,git)](https://skills.thijs.gg)  
+[![Cloud & Infra](https://skill-icons.vercel.app/icons?i=aws,gcp,azure,heroku,linux,docker,kubernetes,ansible,terraform,vagrant,git,vault,helm)](https://skills.thijs.gg)  
 *Oracle Cloud, Huawei Cloud, Alibaba Cloud, Datacenter & On-Premise Solutions*
 
 ### Programming & Scripting
@@ -45,7 +47,7 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 - [One more Medium post title](https://medium.com/@renangraciano/post-slug)
 <!-- MEDIUM-POST-LIST:END -->
 
-*Want to automate this section? Check out [this GitHub Action](https://github.com/gautamkrishnar/blog-post-workflow) to dynamically update your Medium posts!*
+*Automatically updated via GitHub Actions! Check out [this workflow](https://github.com/gautamkrishnar/blog-post-workflow) to set it up.*
 
 ---
 
@@ -67,6 +69,9 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
   </a>
   <a href="https://medium.com/@renangraciano">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://rgsolucoes.cloud">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
