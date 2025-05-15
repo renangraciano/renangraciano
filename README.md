@@ -44,7 +44,7 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 *Docker, Kubernetes, Helm, Rancher*
 
 ### Emerging Tech
-[![Emerging Tech](https://skillicons.dev/icons?i=blockchain,ai,ml,datascience)](https://skillicons.dev)
+[![Emerging Tech](https://skillicons.dev/icons?i=ai)](https://skillicons.dev)
 *Blockchain, AI, ML, Data Science*
 
 ### Other Tools
