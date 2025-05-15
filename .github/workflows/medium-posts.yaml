@@ -1,4 +1,3 @@
----
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
@@ -8,19 +7,13 @@ permissions:
   contents: write # To write the generated contents to the readme
 
 jobs:
-  update-medium-posts:
+  update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Update Medium Posts
+      - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: 'https://medium.com/feed/@renangraciano'
-          max_post_count: 3
-          commit_message: 'Update latest Medium posts'
-          committer_username: 'renangraciano'
-          committer_email: 'rgraciano@protonmail.com' # Replace with your email
-...
+          feed_list: "https://medium.com/feed/@renangraciano"
