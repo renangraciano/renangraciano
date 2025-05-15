@@ -17,7 +17,7 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ## 🛠️ My Tech Stack
 ### Cloud & Infrastructure
-[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,azure,alibaba,oracle,huawei,linux,terraform,ansible,puppet,chef,cloudformation,vagrant,packer)](https://skillicons.dev)
+[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,azure,linux,terraform,ansible)](https://skillicons.dev)
 *Aws, GCP, Azure, Other Clouds Like Alibaba, Oracle and Huaweii, On-Premise Solutions, Linux, Terraform, Ansible, Puppet, Chef, CloudFormation, Vagrant, Packer*
 
 ### Programming & Scripting
@@ -25,23 +25,26 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 *Python, Go, Bash, JavaScript, PHP, Java*
 
 ### CI/CD, GitOps & Delivery
-[![CI/CD & Delivery](https://skill-icons.vercel.app/icons?i=git,githubactions,aws)](https://skills.thijs.gg)
+[![CI/CD & Delivery](https://skillicons.dev/icons?i=git,github,githubactions,aws,azure,gcp)](https://skillicons.dev)
 *AWS CodePipeline, ArgoCD, GitOps Practices*
 
 ### Databases & Caching
-[![Databases](https://skill-icons.vercel.app/icons?i=mysql,postgresql,redis,mongodb,dynamodb,elasticsearch,cassandra,couchbase)](https://skills.thijs.gg)
-*MySQL, PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch, Cassandra, Couchbase*
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,dynamodb,elasticsearch)](https://skillicons.dev)
+*MySQL, PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch*
+
+### Web & API Development
+[![Web & API](https://skillicons.dev/icons?i=flask,fastapi,express,graphql)](https://skillicons.dev)
 
 ### Observability & Monitoring
 [![Monitoring](https://skill-icons.vercel.app/icons?i=prometheus,grafana,datadog,cloudwatch)](https://skills.thijs.gg)
 *Prometheus, Grafana, Datadog, CloudWatch, ELK Stack*
 
 ### Containerization & Orchestration
-[![Containers](https://skill-icons.vercel.app/icons?i=docker,kubernetes,helm)](https://skills.thijs.gg)
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,helm,rancher)](https://skillicons.dev)
 *Docker, Kubernetes, Helm, Rancher*
 
 ### Emerging Tech
-[![Emerging](https://skill-icons.vercel.app/icons?i=blockchain,ai,ml)](https://skills.thijs.gg)
+[![Emerging Tech](https://skillicons.dev/icons?i=blockchain,ai,ml,datascience)](https://skillicons.dev)
 *Blockchain, AI, ML, Data Science*
 
 ### Other Tools
