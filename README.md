@@ -17,30 +17,34 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 
 ## 🛠️ My Tech Stack
 ### Cloud & Infrastructure
-[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,azure,linux,terraform,ansible)](https://skillicons.dev)
+[![Cloud & Infra](https://skillicons.dev/icons?i=aws,gcp,azure,linux,terraform,ansible)](https://rgsolucoes.cloud)
+
 *Aws, GCP, Azure, Other Clouds Like Alibaba, Oracle and Huaweii, On-Premise Solutions, Linux, Terraform, Ansible, Puppet, Chef, CloudFormation, Vagrant, Packer*
 
 ### Programming & Scripting
-[![Languages](https://skillicons.dev/icons?i=python,bash,go,js,php,java)](https://skillicons.dev)  
+[![Languages](https://skillicons.dev/icons?i=python,bash,go,js,php,java)](https://rgsolucoes.cloud)  
+
 *Python, Go, Bash, JavaScript, PHP, Java*
 
 ### CI/CD, GitOps & Delivery
-[![CI/CD & Delivery](https://skillicons.dev/icons?i=git,github,githubactions,aws,azure,gcp)](https://skillicons.dev)
+[![CI/CD & Delivery](https://skillicons.dev/icons?i=git,github,githubactions,aws,azure,gcp)](https://rgsolucoes.cloud)
+
 *AWS CodePipeline, ArgoCD, GitOps Practices*
 
 ### Databases & Caching
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,dynamodb,elasticsearch)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,dynamodb,elasticsearch)](https://rgsolucoes.cloud)
+
 *MySQL, PostgreSQL, Redis, MongoDB, DynamoDB, Elasticsearch*
 
 ### Web & API Development
-[![Web & API](https://skillicons.dev/icons?i=flask,fastapi,express,graphql)](https://skillicons.dev)
+[![Web & API](https://skillicons.dev/icons?i=flask,fastapi,express,graphql)](https://rgsolucoes.cloud)
 
 ### Observability & Monitoring
-[![Monitoring](https://skill-icons.vercel.app/icons?i=prometheus,grafana,datadog,cloudwatch)](https://skills.thijs.gg)
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch)](https://rgsolucoes.cloud)
 *Prometheus, Grafana, Datadog, CloudWatch, ELK Stack*
 
 ### Containerization & Orchestration
-[![Containers](https://skillicons.dev/icons?i=docker,kubernetes,helm,rancher)](https://skillicons.dev)
+[![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 *Docker, Kubernetes, Helm, Rancher*
 
 ### Emerging Tech
@@ -48,7 +52,7 @@ I’m driven to make systems more secure, efficient, and reliable, championing *
 *Blockchain, AI, ML, Data Science*
 
 ### Other Tools
-[![Other Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,jira,confluence,notion)](https://skillicons.dev)
+[![Other Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
 
 ---
 
